@@ -14,16 +14,6 @@
 
 ---
 
-### Selected Engineering Impact
-
-| Initiative | Stack | Impact |
-| :--- | :--- | :--- |
-| **Custom Revit MCP Server** | `MCP` · `Python` · `C#` · `Revit API` | **3×+ faster** EIR/BEP model audits via LLM agents |
-| **Batch Shared Parameters Migrator** | `C#` · `.NET` · `Revit API` | **8× faster** parameter migration (4 days → 4 hours) |
-| **Smart Clash Checker & Auto-Fix** | `C#` · `Python` · `Navisworks` | **5× faster** clash resolution (5 days → 1 day) |
-
----
-
 ### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=csharp&logoColor=white)
