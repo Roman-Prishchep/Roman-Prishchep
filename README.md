@@ -1,42 +1,34 @@
-# Всем привет 👋
+# Hi, I'm Roman 👋
 
-### BIM-менеджер и разработчик инструментов для автоматизации в строительстве.
-
-<br>
-
-Я занимаюсь оптимизацией рабочих процессов в Revit. Меня утомляют рутинные операции, поэтому я создаю инструменты на C# и Python, которые помогают проектировщикам сосредоточиться на главном, а не на монотонных задачах. Моя цель — делать BIM-процессы проще, логичнее и эффективнее с помощью кода.
+**BIM Manager & Automation Developer** — building tools that eliminate repetitive Revit workflows so engineers can focus on actual design.
 
 ---
 
-### 🛠️ Мой стек технологий
+### Focus
 
-| Языки программирования                                                                                                                              | Платформы и API                                                                                                                                                                       | Основные инструменты                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Revit API](https://img.shields.io/badge/Revit%20API-233857?style=for-the-badge) ![pyRevit](https://img.shields.io/badge/pyRevit-E85D0C?style=for-the-badge) | ![Revit](https://img.shields.io/badge/Revit-002D5B?style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### 🚀 Моя деятельность
-
-*   Разработка плагинов для **Revit на C#** для решения сложных задач и автоматизации.
-*   Создание скриптов для **pyRevit на Python** для быстрой помощи проектировщикам.
-*   Разработка и внедрение **BIM-стандартов**, которые действительно работают.
-*   Поиск практичных решений для нестандартных задач в проектировании.
+- **Revit Add-ins (`C#` / `.NET`)** — custom plugins for complex model checks, data management, and workflow automation
+- **Rapid Tooling (`Python` / `pyRevit`)** — lightweight scripts and utilities tailored to real project bottlenecks
+- **Practical BIM Standards** — clear, enforceable standards backed by automation rather than manual checklists
 
 ---
 
-### 📊 Моя статистика на GitHub
+### Tech Stack
 
-![Статистика GitHub Романа Прищепа](https://github-readme-stats.vercel.app/api?username=Roman-Prishchep&show_icons=true&theme=dracula&count_private=true&locale=ru)
+![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-18181B?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white)
+![Revit API](https://img.shields.io/badge/Revit_API-18181B?style=flat-square&logo=autodesk&logoColor=white)
+![pyRevit](https://img.shields.io/badge/pyRevit-18181B?style=flat-square)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 💬 Как со мной связаться
+### Now
 
-Я всегда открыт для интересных проектов и профессионального общения.
+> Polishing a flagship BIM automation project — **stay tuned**.
 
-<p align="left">
-  <a href="https://t.me/r_prishchep" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+---
+
+### Connect
+
+[![Telegram](https://img.shields.io/badge/Telegram-@r__prishchep-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/r_prishchep)
