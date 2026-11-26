@@ -36,4 +36,4 @@
 ### Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-@r__prishchep-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/r_prishchep)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman_Prishchep-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8%D1%89%D0%B5%D0%BF-bb7b1743b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman_Prishchep-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-prishchep-bb7b1743b/)
